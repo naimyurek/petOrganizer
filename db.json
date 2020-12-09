@@ -1,8 +1,8 @@
 {
   "pets": [
-    { "id": 1, "name": "kedicik", "dateOfBirth": "09/10/2020", "species":"cat", "breed":"tekir", weights:[{"date":"15/11/2020", "weight":"3.2"}] },
-    { "id": 1, "name": "sarı kedi", "dateOfBirth": "09/10/2020", "species":"cat", "breed":"tekir", weights:[{"date":"15/11/2020", "weight":"3.2"}] },
-    { "id": 1, "name": "balığımsı", "dateOfBirth": "09/10/2020", "species":"fish", "breed":"tekir", weights:[{"date":"15/11/2020", "weight":"3.2"}] },
-    { "id": 1, "name": "lady", "dateOfBirth": "09/10/2020", "species":"cow", "breed":"tekir", weights:[{"date":"15/11/2020", "weight":"3.2"}] },
+    { "id": 1, "name": "kedicik", "dateOfBirth": "09/10/2020", "species":"cat", "breed":"tekir", "weights":[{"date":"15/11/2020", "weight":"3.2"}] },
+    { "id": 1, "name": "sarı kedi", "dateOfBirth": "09/10/2020", "species":"cat", "breed":"tekir", "weights":[{"date":"15/11/2020", "weight":"3.2"}] },
+    { "id": 1, "name": "balığımsı", "dateOfBirth": "09/10/2020", "species":"fish", "breed":"tekir", "weights":[{"date":"15/11/2020", "weight":"3.2"}] },
+    { "id": 1, "name": "lady", "dateOfBirth": "09/10/2020", "species":"cow", "breed":"tekir", "weights":[{"date":"15/11/2020", "weight":"3.2"}] },
   ],
 }
