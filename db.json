@@ -4,7 +4,7 @@
             "id": 1,
             "name": "kedicik",
             "dateOfBirth": "09/10/2020",
-            "species": "dog",
+            "species": "cat",
             "breed": "tekir",
             "weights": [
                 {
@@ -17,7 +17,7 @@
             "id": 1,
             "name": "sarı kedi",
             "dateOfBirth": "09/10/2020",
-            "species": "dog",
+            "species": "cat",
             "breed": "tekir",
             "weights": [
                 {
@@ -30,8 +30,8 @@
             "id": 1,
             "name": "balığımsı",
             "dateOfBirth": "09/10/2020",
-            "species": "dog",
-            "breed": "tekir",
+            "species": "fish",
+            "breed": "paylanco",
             "weights": [
                 {
                     "date": "15/11/2020",
@@ -43,7 +43,7 @@
             "id": 1,
             "name": "lady",
             "dateOfBirth": "09/10/2020",
-            "species": "dog",
+            "species": "cow",
             "breed": "tekir",
             "weights": [
                 {
