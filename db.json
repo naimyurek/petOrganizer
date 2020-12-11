@@ -2,6 +2,19 @@
     "pets": [
         {
             "id": 1,
+            "name": "karabaş",
+            "dateOfBirth": "09/10/2020",
+            "species": "dog",
+            "breed": "kırma",
+            "weights": [
+                {
+                    "date": "15/11/2020",
+                    "weight": "3.2"
+                }
+            ]
+        },
+        {
+            "id": 1,
             "name": "kedicik",
             "dateOfBirth": "09/10/2020",
             "species": "cat",
